@@ -1,11 +1,11 @@
 {
   "ModsLabs_update": [
     {
-      "version": "9.1.0.1147",
+      "version": "9.1.0.1148",
       "title": "Diqqət.",
       "description": "Spotify hesabları blokladığı üçün yeniləmə etməyəcəm offline və tamamilə pulsuz olan MussiFly yükləməyinizi tövsiyə edirəm, yükləmək üçün aşağıdakı düyməyə basın.",
       "download_link": "https://www.mediafire.com/folder/37bde7brbvwhn/MussiFly",
-      "cancelable": false
+      "cancelable": true
     }
   ]
 }
